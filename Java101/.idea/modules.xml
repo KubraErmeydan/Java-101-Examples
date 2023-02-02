@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaireAlanCevre/DaireAlanCevre.iml" filepath="$PROJECT_DIR$/DaireAlanCevre/DaireAlanCevre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hipotenus/Hipotenus.iml" filepath="$PROJECT_DIR$/Hipotenus/Hipotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KDVhesaplama/KDVhesaplama.iml" filepath="$PROJECT_DIR$/KDVhesaplama/KDVhesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotOrtalamasi/NotOrtalamasi.iml" filepath="$PROJECT_DIR$/NotOrtalamasi/NotOrtalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaksiMetre/TaksiMetre.iml" filepath="$PROJECT_DIR$/TaksiMetre/TaksiMetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
+    </modules>
+  </component>
+</project>
