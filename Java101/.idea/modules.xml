@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuyuktenSiralama/BuyuktenSiralama.iml" filepath="$PROJECT_DIR$/BuyuktenSiralama/BuyuktenSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DaireAlanCevre/DaireAlanCevre.iml" filepath="$PROJECT_DIR$/DaireAlanCevre/DaireAlanCevre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DortBesKuvvetleri/DortBesKuvvetleri.iml" filepath="$PROJECT_DIR$/DortBesKuvvetleri/DortBesKuvvetleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EBOB_EKOK/EBOB_EKOK.iml" filepath="$PROJECT_DIR$/EBOB_EKOK/EBOB_EKOK.iml" />
       <module fileurl="file://$PROJECT_DIR$/EtkinlikOnerme/EtkinlikOnerme.iml" filepath="$PROJECT_DIR$/EtkinlikOnerme/EtkinlikOnerme.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hipotenus/Hipotenus.iml" filepath="$PROJECT_DIR$/Hipotenus/Hipotenus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Horoscope/Horoscope.iml" filepath="$PROJECT_DIR$/Horoscope/Horoscope.iml" />
@@ -13,8 +16,10 @@
       <module fileurl="file://$PROJECT_DIR$/LogIn/LogIn.iml" filepath="$PROJECT_DIR$/LogIn/LogIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamasi/NotOrtalamasi.iml" filepath="$PROJECT_DIR$/NotOrtalamasi/NotOrtalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiCiftleri/SayiCiftleri.iml" filepath="$PROJECT_DIR$/SayiCiftleri/SayiCiftleri.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaksiMetre/TaksiMetre.iml" filepath="$PROJECT_DIR$/TaksiMetre/TaksiMetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TekSayilar/TekSayilar.iml" filepath="$PROJECT_DIR$/TekSayilar/TekSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
     </modules>
   </component>
